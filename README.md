@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Md. Abu Bakkar Siddik from Bangladesh, and I am a full stack web developer. I really enjoy learning languages and frameworks like PHP, Javascript, Laravel, React as well as work in WordPress.
 
-https://github-readme-stats.vercel.app/api?username=Abs-Anik
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Abs-Anik/Abs-Anik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
