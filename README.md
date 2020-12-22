@@ -1,6 +1,5 @@
 ### Hi there 👋, Md. Abu Bakkar Siddik
 #### Design and Development
-![Design and Development](https://scontent.fdac7-1.fna.fbcdn.net/v/t1.0-9/67822591_2303795803075030_1825684623506538496_o.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGDPrlYdoBxkB4_5BqIo2i2YZGnS7HKJ9ZhkadLscon1i2neG3pPtaKw6ZA04GOwqrSi2UI3od3b3BUJ09JJhho&_nc_ohc=yylvYfXxBr8AX_2WkmK&_nc_ht=scontent.fdac7-1.fna&oh=6f3c70681e05b12cd9facae29fd1a6ca&oe=60078CDB)
 
 I'm Md. Abu Bakkar Siddik from Bangladesh, and I am a full stack web developer. I really enjoy learning languages and frameworks like PHP, Javascript, Laravel, React as well as work in WordPress.
 
